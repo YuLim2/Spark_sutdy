@@ -1,2 +1,3 @@
 ### PART 1 What is Big Data and Spark?
-<a href="https://velog.io/@yulim2/Spark-%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8A%A4%ED%8C%8C%ED%81%AC%EB%9E%80-What-is-Apache-Spark" target="__blank">CH1: What is Apache Spark?</a>
+<a href="https://velog.io/@yulim2/Spark-%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8A%A4%ED%8C%8C%ED%81%AC%EB%9E%80-What-is-Apache-Spark" target="_blank">CH1: What is Apache Spark?</a><br>
+<a href="https://velog.io/@yulim2/Spark-DataFrame-Cluster-by-SQL-Application-Structured-API-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84-SQL%EC%9D%B4-%EC%82%AC%EC%9A%A9%EB%90%9C-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B5%AC%EC%A1%B0%EC%A0%81-API">CH2: Spark's DataFrame, Cluster by SQL, Application, Structured API</a>
