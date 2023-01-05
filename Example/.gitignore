@@ -11,4 +11,4 @@ target/
 .DS_Store
 *.iml
 scalastyle-output.xml
-.data
+data/
